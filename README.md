@@ -1,2 +1,1 @@
-# Hotel-Management
-Python based mini project 
+Refer to Mini Project Report.docx file from above files
